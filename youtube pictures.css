@@ -1,0 +1,17 @@
+.dad_profile_picture {
+  border-radius: 50%;
+  width: 120px;
+  transition: opacity 0.15s;
+  cursor: pointer;
+}
+
+.dad_profile_picture:hover{
+  opacity: 0.2;
+}
+
+.search-bar {
+  font-size: 25px;
+  width: 520px;
+  cursor: text;
+}
+
